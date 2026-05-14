@@ -10,4 +10,4 @@ A collection of skills for [Claude Code](https://claude.ai/code) — some adapte
 
 Quiz yourself on code you just wrote or changed. Claude reads the diff, generates targeted multiple choice, true/false, and open-ended questions, and scores your understanding. Good for cementing knowledge after a focused session.
 
-![Checkpoint skill preview](checkpoint-preview.png)
+![Checkpoint skill preview](images/checkpoint-preview.png)
