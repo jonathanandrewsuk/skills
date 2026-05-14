@@ -1,4 +1,4 @@
-# Checkpoint
+# Handrail
 
 Quiz the developer on code that was just written or changed, to make sure they understand it.
 
